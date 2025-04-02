@@ -1,5 +1,7 @@
 # CPU-Implementation-Project
 
+# Overview
+
 For our Computer Systems course, we were assigned a CPU implementation project focused on designing and building key processor components. Our goal was to develop a fully functional Arithmetic Logic Unit (ALU) and Register File capable of handling 32-bit operations. These components needed to efficiently communicate and process data throughout the system, ensuring accurate computation and seamless interaction within the CPU architecture.
 
 # ALU Design
